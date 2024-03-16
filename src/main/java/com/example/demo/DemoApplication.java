@@ -1,13 +1,13 @@
-package in.ashokit;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SbRestAppApplication {
+public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SbRestAppApplication.class, args);
+		SpringApplication.run(DemoApplication.class, args);
 	}
 
 }
